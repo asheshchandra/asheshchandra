@@ -1,26 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ashesh Chandra Barmon</h1>
-<h3 align="center">A passionate Full Stack Web Developer specializing in PHP and Laravel</h3>
+# Hi there 👋, I'm Ashesh Chandro
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asheshchandra&label=Profile%20views&color=0e75b6&style=flat" alt="asheshchandra" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=PHP+Laravel+Developer;Vue.js+Enthusiast;Backend+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asheshchandra" alt="asheshchandra" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Laravel Design Patterns, MySQL Optimization, and JavaScript ES6+**
+## 🚀 About Me
 
-- 💬 Ask me about **PHP, Laravel, MySQL, and Web Security**
+💻 I’m a passionate **Web Developer** focused on building modern and scalable web applications.
 
-- 📫 How to reach me **asheshchandro@gmail.com**
+🌱 Currently improving my skills in **Laravel, Vue.js, and JavaScript**.
 
-- ⚡ Fun fact **I can turn caffeine into complex Laravel applications**
+⚡ I enjoy creating clean backend systems and responsive frontend interfaces.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/bamoncumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="bamoncumar" height="30" width="40" /></a>
+🎯 Goal: To work on real-world projects and grow as a full-stack developer.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,mysql,postman,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asheshchandra&show_icons=true&locale=en&layout=compact" alt="asheshchandra" /></p>
+## 👀 Profile Views
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asheshchandra&show_icons=true&locale=en" alt="asheshchandra" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## ✨ Fun Quote
+
+> "Code. Learn. Build. Repeat. 🚀"
+
+### 🔧 Replace these placeholders:
+
+* `YOUR_USERNAME` → your GitHub username
+* `YOUR_LINKEDIN` → your LinkedIn profile link
+* `YOUR_EMAIL@gmail.com` → your email address
