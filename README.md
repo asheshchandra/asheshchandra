@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ashesh Chandro
+# Hi there 👋, I'm Ashesh Chandra Barmon
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=PHP+Laravel+Developer;Vue.js+Enthusiast;Backend+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
